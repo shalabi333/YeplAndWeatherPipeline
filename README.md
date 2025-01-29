@@ -154,4 +154,20 @@ JOIN dimWeather w ON r.date = w.date
 GROUP BY w.date;
 ```
 
-## Abdulrahman Shalabi 
+
+## 🚀 Next Steps
+- **Explore Data**: Run queries on the DWH layer to uncover insights.
+- **Optimize Performance**: Adjust warehouse sizes and clustering keys as needed.
+- **Expand Use Cases**: Add more datasets or integrate additional tools (e.g., BI platforms).
+
+---
+
+## 📚 Resources
+- [Snowflake Documentation](https://docs.snowflake.com/)
+- [Google Cloud Storage Documentation](https://cloud.google.com/storage/docs)
+- [Yelp Dataset Documentation](https://www.yelp.com/dataset)
+
+---
+
+## 🙏 Thank You!
+Thank you for following this guide. If you have any questions, feedback, or suggestions, feel free to open an issue or contribute to the project. Happy data engineering! 🎉
