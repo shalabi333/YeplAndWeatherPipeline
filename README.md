@@ -9,8 +9,7 @@
 - [ETL Process](#-etl-process)
 - [Data Model](#-data-model)
 - [Example Queries](#-example-queries)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
 ---
 
